@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_account_circle_black_24dp"></item>
+<item
+    android:id="@+id/menu_settings"
+    android:title="Settings"
+    android:icon="@drawable/ic_settings_black_24dp">
+</item>
+<item
+    android:id="@+id/menu_help"
+    android:title="Help"
+    android:icon="@drawable/ic_help_black_24dp">
+</item>
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Sign Out"
+        android:icon="@drawable/ic_sign_out_black_24dp">
+
+    </item>
+    <item
+        android:id="@+id/menu_sync_history"
+        android:title="Sync History"
+        android:icon="@drawable/ic_history_black_24dp">
+
+    </item>
+
+</menu>
